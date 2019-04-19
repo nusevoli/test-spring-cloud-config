@@ -1,0 +1,3 @@
+conf:
+    broker:
+        addrs: "aaaaa"
