@@ -1,6 +1,6 @@
 conf:
     broker:
-        addrs: "aaaaa"
+        addrs: "BBBB"
 environments:
     dev:
         url: http://dev.example.com
